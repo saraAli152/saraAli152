@@ -46,9 +46,3 @@
   </a>
 </div>
 
-
-###
-
-![Snake animation](https://github.com/saraAli152/saraAli152/blob/output/github-contribution-grid-snake.svg)
-
-###
